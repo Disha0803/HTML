@@ -1,0 +1,102 @@
+body{
+    margin:5px;
+   
+}
+#main-header {
+    background-image: linear-gradient(40deg,rgb(95, 143, 233),rgb(51, 51, 240));
+    height:30px;
+    padding: 10px;
+    text-align: center;
+}
+
+#main-header a{
+    text-decoration: underline;
+    color: rgb(8, 8, 65);
+    padding-right: 220px;
+}
+
+#header h1{
+    background-image: linear-gradient(180deg,rgb(131, 24, 131),rgb(35, 20, 75));
+    border-radius: 5px;
+}
+
+#aside {
+      
+    background-image: linear-gradient(60deg,rgb(250, 103, 128),rgb(223, 4, 113));
+    float:left;
+    height:100vh;
+    padding: 35px;
+    border-radius: 20px;
+}
+
+#aside a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 12px;
+    
+}
+
+#head  {
+    background-color: turquoise;
+    height:100vh;
+    padding: 20px;
+    margin-left: 270px;
+    border-radius: 10px;
+}
+
+#head h3{
+    color: rgb(3, 2, 1);
+    font-family: 'Times New Roman', Times, serif;
+    
+    padding: 10px;
+}
+
+
+
+#sec{
+    
+    color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding: 10px;
+   text-align: center;
+   height: 100%;
+}
+
+#a1{
+    background-color: rgb(8, 8, 77);
+    border-radius: 20px;
+    padding:4px;
+   
+}
+
+#a2{
+    background-color: rgb(8, 8, 77);
+    border-radius: 20px;
+    padding:4px;
+   margin-top: 5px;
+}
+
+#a3{
+    background-color: rgb(8, 8, 77);
+    border-radius: 20px;
+    padding:4px;
+   margin-top: 5px;
+}
+
+#a4{
+    background-color: rgb(8, 8, 77);
+    border-radius: 20px;
+    padding:4px;
+   margin-top: 5px;
+}
+
+#sec article{
+    box-shadow: black;
+}
+#sec article:hover{
+    background-image: linear-gradient(180deg,rgb(243, 128, 147),rgb(238, 34, 68));
+    color: black;
+}
+

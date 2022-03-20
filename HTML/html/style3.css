@@ -1,0 +1,24 @@
+#aside {
+      
+      background-image: linear-gradient(30deg,rgb(35, 192, 35),rgb(255, 251, 8));
+      float:left;
+      height:100vh;
+      padding: 35px;
+      border-radius: 20px;
+}
+
+#aside a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 20px;
+    
+}
+#aside a:hover{
+    background-image: linear-gradient(40deg,rgb(98, 100, 240),black);
+    border-radius: 50px;
+}
+
+#aside img{
+    box-shadow: 0 0 30px black;
+}
